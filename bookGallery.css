@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(25, 39, 52);
+    margin: 0px;
+}
+#top-header {
+    background-color: rgb(25, 39, 52);
+}
+#heading-1 {
+    margin-top: 0px;
+    width: 100%;
+    color: #F5F5F5;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+.heading-2 {
+    color: #F5F5F5;
+    font-style: italic;
+    padding-left: 70px;
+    font-size: 40px;
+}
+.hr-1 {
+    width: 1200px;
+    margin-top: -30px;
+}
+img {
+    width: 100%;
+    height: 60%;
+}
+.book-title {
+    color: gray;
+}
+.author-name {
+    font-weight: bolder;
+}
+.buy-button {
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    background: #6E6D70;
+    box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+    color: #DFDEDF;
+    border-radius: 6px;
+    padding: 4px 3px;
+}
+
+/* First row */
+#row-1 {
+    margin-top: 30px;
+    margin-left: 203px;
+}
+#row-1 div {
+    background-color: white;
+    height: 340px;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+    border: solid rgb(22, 31, 37) 2px;
+}
+.div1 {
+
+}
+.div2 {
+    margin-left: 240px;
+    margin-top: -354px;
+}
+.div3 {
+    margin-left: 480px;
+    margin-top: -354px;
+}
+.div4 {
+    margin-left: 720px;
+    margin-top: -354px;
+}
+
+/* Second row */
+#row-2 {
+    margin-top: 30px;
+    margin-left: 203px;
+}
+#row-2 div {
+    background-color: white;
+    height: 340px;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+    border: solid rgb(22, 31, 37) 2px;
+}
+
+
+/* Third row */
+#row-3 {
+    margin-top: 30px;
+    margin-left: 203px;
+}
+#row-3 div {
+    background-color: white;
+    height: 340px;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+    border: solid rgb(22, 31, 37) 2px;
+}
+
+
+/* Footer */
+footer {
+    padding: 10px;
+    padding-top: 27px;
+    background-color: #ffffff;
+    color: #f7fbff;
+    text-align: center;
+    background-color: rgb(25, 39, 52);
+}
+.footer-logo {
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+#footer-text1 {
+    float: left;
+    margin-left: 590px;
+    margin-right: -585px;
+    margin-top: 9px;
+    color: gray;
+}
